@@ -11,7 +11,7 @@ Challenge project for the BootCamp Santander 2023 - Mobile development with Flut
 Para rodar este projeto basta dar um fork e clonar repositório para uma pasta local.
 Necessita das seguintes dependências:
 To run this project, fork a clone this project to your local machine and install de following dependencies:
-  cupertino_icons: ^1.0.2
+  cupertino_icons: ^1.0.2/n
   dio: ^5.3.3
   image_cropper: ^4.0.1
   animations: ^2.0.8
