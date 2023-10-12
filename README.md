@@ -77,3 +77,9 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Screenshots
+
+![App Screenshot](https://i.imgur.com/WJpjCob.jpg)
+![App Screenshot](https://i.imgur.com/GYRLMNp.jpg)
